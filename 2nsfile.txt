@@ -1,0 +1,3 @@
+this is the second file created using cmd 
+
+in git repo
